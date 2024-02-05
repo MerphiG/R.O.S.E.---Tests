@@ -1,0 +1,12 @@
+[-v]1.0 Release[v-]
+[-c]Just release of mod lol[c-]
+
+[-v]1.1 Hotfix Update[v-]
+[-c]bugfixes[c-]
+
+[-v]1.5 Update[v-]
+[-c]Added so many shit[c-]
+
+[-v]2.0 Update[v-]
+[-c]holy fuck gaykeepers[c-]
+
