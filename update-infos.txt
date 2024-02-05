@@ -1,21 +1,21 @@
-[-v]1.0 Release[v-]
+[-v]1.0 Release<1.0[v-]
 [-c]Just release of mod lol<true[c-]
 
-[-v]1.1 Hotfix Update[v-]
+[-v]1.1 Hotfix Update<1.1[v-]
 [-c]bugfixes<false[c-]
 
-[-v]1.2 Hotfix Update[v-]
+[-v]1.2 Hotfix Update<1.2[v-]
 [-c]more bugfixes<false[c-]
 
-[-v]1.5 Update[v-]
+[-v]1.5 Update<1.5[v-]
 [-c]Added so many shit<false[c-]
 
-[-v]1.6 Update[v-]
+[-v]1.6 Update<1.6[v-]
 [-c]bugfixes duuuh<false[c-]
 
-[-v]2.0 Update[v-]
+[-v]2.0 Update<2.0[v-]
 [-c]holy fuck gaykeepers<false[c-]
 
-[-v]2.1 Update[v-]
+[-v]2.1 Update<2.1[v-]
 [-c]dev moment<false[c-]
 
