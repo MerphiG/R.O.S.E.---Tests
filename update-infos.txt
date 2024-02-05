@@ -4,9 +4,18 @@
 [-v]1.1 Hotfix Update[v-]
 [-c]bugfixes[c-]
 
+[-v]1.2 Hotfix Update[v-]
+[-c]more bugfixes[c-]
+
 [-v]1.5 Update[v-]
 [-c]Added so many shit[c-]
 
+[-v]1.6 Update[v-]
+[-c]bugfixes duuuh[c-]
+
 [-v]2.0 Update[v-]
 [-c]holy fuck gaykeepers[c-]
+
+[-v]2.1 Update[v-]
+[-c]dev moment[c-]
 
