@@ -1,3 +1,7 @@
 [-v]1.0 Release<1.0[v-]
 [-c]Official release of Restoration.
+Previously made by Futagami under the name "Restored".
+The goal of this mod is to finish and extend the concepts so don’t expect it to be 100% accurate.
+This is our vision made with some of the old Restored members.
+Although don’t consider Restoration as Restored anymore.<true[c-]
 
