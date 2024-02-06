@@ -4,7 +4,18 @@
 [-v]1.1 Hotfix Update<1.1[v-]
 [-c]bugfixes<false[c-]
 
-[-v]1.2 Triple M and Co. Update<1.2[v-]
-[-c]Fresas con Palta<false[c-]
+[-v]1.2 Hotfix Update<1.2[v-]
+[-c]more bugfixes<false[c-]
 
+[-v]1.5 Update<1.5[v-]
+[-c]Added so many shit<false[c-]
+
+[-v]1.6 Update<1.6[v-]
+[-c]bugfixes duuuh<false[c-]
+
+[-v]2.0 Update<2.0[v-]
+[-c]holy fuck gaykeepers<false[c-]
+
+[-v]2.1 Update<2.1[v-]
+[-c]dev moment<false[c-]
 
