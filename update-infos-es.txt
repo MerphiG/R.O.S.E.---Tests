@@ -4,32 +4,5 @@ Anteriormente hecho por futagami con el nombre de "restored".
 El objetivo de este mod es finalizar y ampliar los conceptos, así que no esperen algo 100% preciso.
 Esta es nuestra vision junto con otros miembros antiguos de Restored, Ya no se debe considerar Restoration con el nombre de "restored"<true[c-]
 
-[-v]Prueba<1.1[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.2[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.3[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.4[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.5[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.6[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.7[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.8[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<1.9[v-]
-[-c]prueba wahoo<false[c-]
-
-[-v]Prueba<2.0[v-]
-[-c]prueba wahoo<false[c-]
+[-v]Prueba<1.0[v-]
+[-c]Hey, soy yo, SonicPlay<false[c-]

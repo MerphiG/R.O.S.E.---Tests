@@ -5,32 +5,5 @@ The goal of this mod is to finish and extend the concepts so don’t expect it t
 This is our vision made with some of the old Restored members.
 Although don’t consider Restoration as Restored anymore.<true[c-]
 
-[-v]Test<1.1[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.2[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.3[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.4[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.5[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.6[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.7[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.8[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<1.9[v-]
-[-c]test wahoo<false[c-]
-
-[-v]Test<2.0[v-]
-[-c]test wahoo<false[c-]
+[-v]Testing<1.0[v-]
+[-c]Hey, its me, SonicPlay<false[c-]
