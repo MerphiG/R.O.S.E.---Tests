@@ -30,6 +30,6 @@ En esta primera Update Principal, conocida como "RoSe Update 1.0", podrán jugar
 Porfavor disfruten de este mod y gracias por el apoyo que nos han brindado por todos estos largos años de desarrollo. Y si encuentran bugs o crasheos, no duden en avisarnos, el feedback será apreciado.
 <true[c-]
 
-[-v]Prueba<1.0[v-]
+[-v]Hola<1.0[v-]
 [-c]Hey, soy yo, SonicPlay
 Merphi también estuvo aquí :D<false[c-]
