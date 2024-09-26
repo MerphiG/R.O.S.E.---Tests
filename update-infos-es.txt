@@ -1,8 +1,35 @@
 [-v]Versión 1.0<1.0[v-]
-[-c]Lanzamiento oficial de restoration.
-Anteriormente hecho por futagami con el nombre de "restored".
-El objetivo de este mod es finalizar y ampliar los conceptos, así que no esperen algo 100% preciso.
-Esta es nuestra vision junto con otros miembros antiguos de Restored, Ya no se debe considerar Restoration con el nombre de "restored"<true[c-]
+[-c]¡Bienvenidos a Restoration Of Sonic.exe!
+
+Un mod de Friday Night Funkin basado en el cancelado "FNF Vs Sonic.exe", originalmente dirigido y liderado por RightburstUltra, MarStarBro, CommandoDev, Saster y Revie03.
+
+El origen de nuestra restauración del mod tiene sus orígenes en "Sonic.exe But I Restored It!", un mod creado y dirigido por Futagami, el cual se hizo muy popular en 2022. Lastimosamente, debido al drama y varios conflictos, este mod también sería cancelado. Sin embargo, gracias al codificador principal de aquel entonces, Merphi, asumiría la continuación del desarrollo bajo el nombre de "RoSe" en Noviembre de 2022.
+
+El mod en sí incluye un montón de contenido original e interesante de acuerdo con la visión del equipo sobre como hubiese sido un posible mod completo del "FNF Vs Sonic.exe" si no se hubiese cancelado definitivamente. Pero, con el pasar del tiempo, el mod continuaría con su desarrollo desviándose del objetivo de restaurar todo de manera 100% precisa para mejorar el contenido, diseño y estilo del mod. Además, los desarrolladores tienen su propio punto de vista y dan todo lo mejor que tienen para crear una experiencia entretenida.
+
+En esta primera Update Principal, conocida como "RoSe Update 1.0", podrán jugar una enorme cantidad de contenido que ha estado en desarrollo por más de 2 años, desde canciones de todo tipo, como canciones clásicas que todos conocen, mixes y temas originales, desbloquear varias cosas interesantes, conocer y retar en batallas de rap a un montón de Exes y personajes extraños relacionados con la comunidad de Sonic y Sonic.exe a lo largo del Multiverso.
+
+¿Qué contiene el mod específicamente?
+- +130 Canciones Jugables! {Con una pequeña cantidad de canciones secretas}
+- Modo Historia {2 Semanas Principales, Xeno Week & ALT Week}
+- Modo Encore {Ronda 2 sobre un puñado de canciones respectivas}
+- Freeplay {Todo el catálogo de canciones sobre casi todo el roster de personajes. Algunas canciones especiales se desbloquean en este menú}
+- SoundTest {Coloca códigos para desbloquear canciones y secretos}
+- Extras {Canciones Extras, Galería, D.A. Garden, Biografías de Personajes y Créditos Finales}
+- Tienda {Compra Skins para tus flechas o colores llamativos} 
+- Updates Info {Conoce sobre cada Update del mod}
+- Skins para el Cursor
+- Trofeos y Logros
+- Renders de Personajes Desbloqueables
+- Soporte para Mouse, Controles {XInput, PS4, OUYA, Switch Joycons, Logitech Controller, WiiRemote, MFi, PS Vita & PS5} y VR
+- Soporte de idioma Inglés, Español, Ruso y Francés
+- Ports Oficiales para Móbil y Mac
+- Varios Secretos, Easter Eggs y Memes
+- Y unas cuantas cosas más!
+
+Porfavor disfruten de este mod y gracias por el apoyo que nos han brindado por todos estos largos años de desarrollo. Y si encuentran bugs o crasheos, no duden en avisarnos, el feedback será apreciado.
+<true[c-]
 
 [-v]Prueba<1.0[v-]
-[-c]Hey, soy yo, SonicPlay<false[c-]
+[-c]Hey, soy yo, SonicPlay
+Merphi también estuvo aquí :D<false[c-]

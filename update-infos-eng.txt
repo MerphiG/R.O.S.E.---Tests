@@ -1,9 +1,35 @@
 [-v]1.0 Release<1.0[v-]
-[-c]Official release of Restoration.
-Previously made by Futagami under the name "Restored".
-The goal of this mod is to finish and extend the concepts so don’t expect it to be 100% accurate.
-This is our vision made with some of the old Restored members.
-Although don’t consider Restoration as Restored anymore.<true[c-]
+[-c]Welcome to Restoration Of Sonic.exe!
+
+A Friday Night Funkin mod based on the cancelled “FNF Vs Sonic.exe”, originally run and led by RightburstUltra, MarStarBro, CommandoDev, Saster and Revie03.
+
+The origin of our restoration mod has its origins in “Sonic.exe But I Restored It!”, a mod created and led by Futagami, which became very popular in 2022. Unfortunately, due to drama and various conflicts, this mod would also be cancelled. However, thanks to the lead coder at the time, Merphi, would take over the continuation of development under the name “RoSe” in November 2022.
+
+The mod itself includes a lot of original and interesting content according to the team's vision of what a possible full “FNF Vs Sonic.exe” mod would have looked like if it hadn't been cancelled for good. But, as time went by, the mod would continue with its development deviating from the goal of restoring everything 100% accurately to improve the content, design and style of the mod. Also, the developers have their own point of view and give all the best they have to create an entertaining experience.
+
+In this first Main Update, known as “RoSe Update 1.0”, you will be able to play a huge amount of content that has been in development for over 2 years, from songs of all kinds, such as classic songs that everyone knows, mixes and original tracks, unlock various interesting things, meet and challenge in rap battles a lot of Exes and strange characters related to the Sonic community and Sonic.exe throughout the Multiverse.
+
+What specifically does the mod contain?
+- +130 Playable Songs! {With a small amount of secret songs}
+- Story Mode {2 Main Weeks, Xeno Week & ALT Week}
+- Encore Mode {Round 2 against a handful of respective songs}
+- Freeplay {The entire catalog of songs about almost the entire roster of characters. Some special songs are unlocked in this menu}
+- SoundTest {Place codes to unlock songs and secrets}
+- Extras {Extra Songs, Gallery, D.A. Garden, Character Bios and End Credits}
+- Shop {Buy Skins for your arrows or flashy colors} 
+- Updates Info {Learn about each mod update}
+- Cursor Skins
+- Trophies and Achievements
+- Unlockable Character Renders
+- Mouse, Controllers {XInput, PS4, OUYA, Switch Joycons, Logitech Controller, WiiRemote, MFi, PS Vita & PS5} and VR Support
+- English, Spanish, Russian and French language support
+- Official Android and Mac Ports
+- Various Secrets, Easter Eggs and Memes
+- And a few more things!
+
+Please enjoy this mod and thank you for the support you have given us for all these long years of development. And if you find bugs or crashes, don't hesitate to let us know, feedback will be appreciated.
+<true[c-]
 
 [-v]Testing<1.0[v-]
-[-c]Hey, its me, SonicPlay<false[c-]
+[-c]Hey, its me, SonicPlay
+Merphi was here too :D<false[c-]
