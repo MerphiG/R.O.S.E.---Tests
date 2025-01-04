@@ -30,6 +30,6 @@ What specifically does the mod contain?
 Please enjoy this mod and thank you for the support you have given us for all these long years of development. And if you find bugs or crashes, don't hesitate to let us know, feedback will be appreciated.
 <true[c-]
 
-[-v]Heya<1.0[v-]
+[-v]Heya<1.1[v-]
 [-c]Hey, its me, SonicPlay
 Merphi was here too :D<false[c-]
